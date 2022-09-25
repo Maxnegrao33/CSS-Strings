@@ -1,0 +1,12 @@
+# Strings e identificadores
+
+* Strings: Textos entre "aspas"
+* Identificadores: red, black, gold;  /*Nomes de cores*/
+
+/*Exemplo de String*/
+.box::after{
+    content:"Inserindo uma mensagem"
+    color: white;
+}
+
+
